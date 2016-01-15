@@ -1,0 +1,4 @@
+\select@language {brazil}
+\contentsline {section}{\numberline {1}Expans\IeC {\~a}o caso de uso Lan\IeC {\c c}ar Despesas}{2}
+\contentsline {subsection}{\numberline {1.1}Identificador}{2}
+\contentsline {subsection}{\numberline {1.2}Nome do Caso de Uso}{2}
